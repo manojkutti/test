@@ -1,0 +1,12 @@
+C:\Users\manoj\Desktop\myorg\SpiralOrder_3\bin\Debug\netcoreapp3.1\SpiralOrder_3.exe
+C:\Users\manoj\Desktop\myorg\SpiralOrder_3\bin\Debug\netcoreapp3.1\SpiralOrder_3.deps.json
+C:\Users\manoj\Desktop\myorg\SpiralOrder_3\bin\Debug\netcoreapp3.1\SpiralOrder_3.runtimeconfig.json
+C:\Users\manoj\Desktop\myorg\SpiralOrder_3\bin\Debug\netcoreapp3.1\SpiralOrder_3.runtimeconfig.dev.json
+C:\Users\manoj\Desktop\myorg\SpiralOrder_3\bin\Debug\netcoreapp3.1\SpiralOrder_3.dll
+C:\Users\manoj\Desktop\myorg\SpiralOrder_3\bin\Debug\netcoreapp3.1\SpiralOrder_3.pdb
+C:\Users\manoj\Desktop\myorg\SpiralOrder_3\obj\Debug\netcoreapp3.1\SpiralOrder_3.csproj.CoreCompileInputs.cache
+C:\Users\manoj\Desktop\myorg\SpiralOrder_3\obj\Debug\netcoreapp3.1\SpiralOrder_3.AssemblyInfoInputs.cache
+C:\Users\manoj\Desktop\myorg\SpiralOrder_3\obj\Debug\netcoreapp3.1\SpiralOrder_3.AssemblyInfo.cs
+C:\Users\manoj\Desktop\myorg\SpiralOrder_3\obj\Debug\netcoreapp3.1\SpiralOrder_3.dll
+C:\Users\manoj\Desktop\myorg\SpiralOrder_3\obj\Debug\netcoreapp3.1\SpiralOrder_3.pdb
+C:\Users\manoj\Desktop\myorg\SpiralOrder_3\obj\Debug\netcoreapp3.1\SpiralOrder_3.genruntimeconfig.cache
